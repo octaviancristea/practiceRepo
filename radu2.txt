@@ -1,2 +1,5 @@
 this is how you do a pull
 git pull origin master
+
+
+this is for update
